@@ -217,6 +217,11 @@ h3 {
   h2 {
     font-size: 2rem;
   }
+
+  #cta h3 {
+    font-size: 2.4rem;
+  }
+
   .container-fluid {
     padding: 5%;
   }
@@ -228,6 +233,11 @@ h3 {
   .download-button {
     margin: 5% auto 0 auto;
   }
+
+  .cta-download-buttons {
+    margin: 5% auto 0 auto;
+  }
+
   #title {
     padding-bottom: 5%;
   }
